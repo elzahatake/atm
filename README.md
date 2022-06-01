@@ -1,14 +1,14 @@
 # Name
 
-Fetch and Render
+ATM
 
 # Description
 
-These files allow you to fetch external data and render with styling.
+These files allow you to code a mock ATM.
 
 # Installation
 
-If needed, you could include steps to help people get started with your project.
+demo.jsx, index.html
 
 # License information
 
